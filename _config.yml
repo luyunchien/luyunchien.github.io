@@ -1,1 +1,5 @@
-remote_theme: alshedivat/al-folio
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+plugins:
+  - jekyll-include-cache
+minimal_mistakes_skin: "contrast"
+title: Yun-Chien Lu
