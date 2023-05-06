@@ -7,3 +7,23 @@ include: ["_pages"]
 repository: "luyunchien/luyunchien.github.io"
 atom_feed:
   hide: true
+author:
+  name: "Yun-Chien Lu"
+  bio: "Computer Science Graduate"
+  avatar: "img/avatar.jpg"
+  location: "United Kingdom"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:luyunchien@gmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/yun-chien-lu/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github-square"
+      url: "https://github.com/luyunchien"
+footer:
+  links:
+    - label: "Page Source"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/luyunchien/luyunchien.github.io"

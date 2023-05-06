@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Home"
-layout: archive
+layout: posts
 ---
 
 todo
