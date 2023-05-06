@@ -1,0 +1,14 @@
+---
+# Jekyll won't compile without SCSS
+# https://mmistakes.github.io/minimal-mistakes/docs/stylesheets/
+search: false
+---
+
+@charset "utf-8";
+
+$h-size-4: 0.9em;
+$h-size-5: 0.75em;
+$h-size-6: 0.6em;
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
