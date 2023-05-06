@@ -12,7 +12,8 @@ layout: posts
 Hi! I'm Yun-Chien, welcome to my site. 
 
 I have recently graduated from the University of Bristol with a Master's 
-degree in Computer Science, and I am currently looking for a software engineering role in the UK.
+degree in Computer Science.
+I am currently looking for a software engineering role in the UK.
 
 I am passionate about learning new programming languages and technologies, my expertise 
 includes Java, C, JavaScript, user research and interactive design.
