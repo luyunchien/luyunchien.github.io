@@ -3,3 +3,7 @@ plugins:
   - jekyll-include-cache
 minimal_mistakes_skin: "contrast"
 title: Yun-Chien Lu
+include: ["_pages"]
+repository: "luyunchien/luyunchien.github.io"
+atom_feed:
+  hide: true
