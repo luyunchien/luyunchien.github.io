@@ -5,4 +5,8 @@ layout: posts
 author_profile: true
 ---
 
-{% include cv-body.md %}
+[Click to download PDF](/assets/pdf/cv.pdf)
+
+<object data="/assets/pdf/cv.pdf" type="application/pdf" width="100%" height="100%" class="pdf">
+    <embed src="/assets/pdf/cv.pdf" width="100%" height="100%"/> 
+</object>

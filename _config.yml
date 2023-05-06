@@ -10,7 +10,7 @@ atom_feed:
 author:
   name: "Yun-Chien Lu"
   bio: "Computer Science Graduate"
-  avatar: "img/avatar.jpg"
+  avatar: "assets/img/avatar.jpg"
   location: "United Kingdom"
   links:
     - label: "Email"
