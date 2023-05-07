@@ -27,3 +27,4 @@ footer:
     - label: "Page Source"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/luyunchien/luyunchien.github.io"
+locale: "en"
