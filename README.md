@@ -1,8 +1,8 @@
-# luyunchien.github.io
+# Yun-Chien Lu
 
 My personal site and CV.
 
-https://luyunchien.github.io/
+https://www.luyunchien.com/
 
 ## Development
 
