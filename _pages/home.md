@@ -11,9 +11,9 @@ layout: posts
 <br>
 Hi! I'm Yun-Chien, welcome to my site. 
 
-I have recently graduated from the University of Bristol with a Master's 
+I am a graduate of the University of Bristol with a Master's 
 degree in Computer Science.
-I am currently looking for a software engineering role in the UK.
+I am currently working as a junior software developer at eflow Global in the UK.
 
 I am passionate about learning new programming languages and technologies, my expertise 
 includes Java, C, JavaScript, user research and interactive design.
